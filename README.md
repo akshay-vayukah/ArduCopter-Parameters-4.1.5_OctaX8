@@ -7,4 +7,4 @@ Compass Calibration,
 RC Transmitter Flight Mode Configuration,
 Electronic Speed Controller (ESC) Calibration,
 
-AUXOUT Pin 5 is Used to trigger camers 
+AUXOUT Pin 5 is Used to trigger camera
